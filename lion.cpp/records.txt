@@ -1,0 +1,9 @@
+____________Vayu Airlines_____________
+______________Ticket__________________
+______________________________________
+Customer ID:1
+Customer Name:ved
+Customer Gender:male
+	Description
+Destination		USA
+Flight cost :-		18000
